@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-09T19:21:04 IST" name="MeetupAppTest2" finished-at="2023-09-09T19:21:30 IST" duration-ms="25789">
+    <groups>
+    </groups>
+    <test started-at="2023-09-09T19:21:04 IST" name="RegistrationPageTest" finished-at="2023-09-09T19:21:26 IST" duration-ms="22067">
+      <class name="RegistrationPageTest">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:RegistrationPageTest@670002]" started-at="2023-09-09T19:21:04 IST" name="SetUp" finished-at="2023-09-09T19:21:11 IST" duration-ms="7060" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="UIOfTheRegistrationPage()[pri:1, instance:RegistrationPageTest@670002]" started-at="2023-09-09T19:21:11 IST" name="UIOfTheRegistrationPage" finished-at="2023-09-09T19:21:12 IST" duration-ms="224" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UIOfTheRegistrationPage -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:RegistrationPageTest@670002]" started-at="2023-09-09T19:21:12 IST" name="TearDown" finished-at="2023-09-09T19:21:12 IST" duration-ms="206" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:RegistrationPageTest@670002]" started-at="2023-09-09T19:21:12 IST" name="SetUp" finished-at="2023-09-09T19:21:16 IST" duration-ms="4183" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="RegistrationPageWithEmptyNameField()[pri:2, instance:RegistrationPageTest@670002]" started-at="2023-09-09T19:21:16 IST" name="RegistrationPageWithEmptyNameField" finished-at="2023-09-09T19:21:16 IST" duration-ms="211" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegistrationPageWithEmptyNameField -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:RegistrationPageTest@670002]" started-at="2023-09-09T19:21:16 IST" name="TearDown" finished-at="2023-09-09T19:21:16 IST" duration-ms="101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:RegistrationPageTest@670002]" started-at="2023-09-09T19:21:16 IST" name="SetUp" finished-at="2023-09-09T19:21:18 IST" duration-ms="1478" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="RegistrationPageWithValidInputs(java.lang.String,java.lang.String,java.lang.String)[pri:3, instance:RegistrationPageTest@670002]" started-at="2023-09-09T19:21:18 IST" name="RegistrationPageWithValidInputs" data-provider="dataSet" finished-at="2023-09-09T19:21:18 IST" duration-ms="400" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Jack]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ARTS_AND_CULTURE]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Arts and Culture]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegistrationPageWithValidInputs -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:RegistrationPageTest@670002]" started-at="2023-09-09T19:21:18 IST" name="TearDown" finished-at="2023-09-09T19:21:18 IST" duration-ms="101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:RegistrationPageTest@670002]" started-at="2023-09-09T19:21:18 IST" name="SetUp" finished-at="2023-09-09T19:21:20 IST" duration-ms="1504" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="RegistrationPageWithValidInputs(java.lang.String,java.lang.String,java.lang.String)[pri:3, instance:RegistrationPageTest@670002]" started-at="2023-09-09T19:21:20 IST" name="RegistrationPageWithValidInputs" data-provider="dataSet" finished-at="2023-09-09T19:21:20 IST" duration-ms="488" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Jerry]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[CAREER_AND_BUSINESS]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Career and Business]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegistrationPageWithValidInputs -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:RegistrationPageTest@670002]" started-at="2023-09-09T19:21:20 IST" name="TearDown" finished-at="2023-09-09T19:21:20 IST" duration-ms="86" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:RegistrationPageTest@670002]" started-at="2023-09-09T19:21:20 IST" name="SetUp" finished-at="2023-09-09T19:21:22 IST" duration-ms="1500" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="RegistrationPageWithValidInputs(java.lang.String,java.lang.String,java.lang.String)[pri:3, instance:RegistrationPageTest@670002]" started-at="2023-09-09T19:21:22 IST" name="RegistrationPageWithValidInputs" data-provider="dataSet" finished-at="2023-09-09T19:21:22 IST" duration-ms="387" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[John]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[EDUCATION_AND_LEARNING]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Education and Learning]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegistrationPageWithValidInputs -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:RegistrationPageTest@670002]" started-at="2023-09-09T19:21:22 IST" name="TearDown" finished-at="2023-09-09T19:21:22 IST" duration-ms="86" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:RegistrationPageTest@670002]" started-at="2023-09-09T19:21:22 IST" name="SetUp" finished-at="2023-09-09T19:21:24 IST" duration-ms="1464" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="RegistrationPageWithValidInputs(java.lang.String,java.lang.String,java.lang.String)[pri:3, instance:RegistrationPageTest@670002]" started-at="2023-09-09T19:21:24 IST" name="RegistrationPageWithValidInputs" data-provider="dataSet" finished-at="2023-09-09T19:21:24 IST" duration-ms="446" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Jim]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[FASHION_AND_BEAUTY]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Fashion and Learning]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegistrationPageWithValidInputs -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:RegistrationPageTest@670002]" started-at="2023-09-09T19:21:24 IST" name="TearDown" finished-at="2023-09-09T19:21:24 IST" duration-ms="103" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:RegistrationPageTest@670002]" started-at="2023-09-09T19:21:24 IST" name="SetUp" finished-at="2023-09-09T19:21:26 IST" duration-ms="1382" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="RegistrationPageWithValidInputs(java.lang.String,java.lang.String,java.lang.String)[pri:3, instance:RegistrationPageTest@670002]" started-at="2023-09-09T19:21:26 IST" name="RegistrationPageWithValidInputs" data-provider="dataSet" finished-at="2023-09-09T19:21:26 IST" duration-ms="491" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Jane]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[GAMES]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Games]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegistrationPageWithValidInputs -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:RegistrationPageTest@670002]" started-at="2023-09-09T19:21:26 IST" name="TearDown" finished-at="2023-09-09T19:21:26 IST" duration-ms="71" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- RegistrationPageTest -->
+    </test> <!-- RegistrationPageTest -->
+    <test started-at="2023-09-09T19:21:26 IST" name="WelcomePageTest" finished-at="2023-09-09T19:21:30 IST" duration-ms="3674">
+      <class name="WelcomePageTest">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:WelcomePageTest@31d7b7bf]" started-at="2023-09-09T19:21:26 IST" name="SetUp" finished-at="2023-09-09T19:21:28 IST" duration-ms="1731" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="UIOfTheWelcomePage()[pri:1, instance:WelcomePageTest@31d7b7bf]" started-at="2023-09-09T19:21:28 IST" name="UIOfTheWelcomePage" finished-at="2023-09-09T19:21:28 IST" duration-ms="124" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UIOfTheWelcomePage -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:WelcomePageTest@31d7b7bf]" started-at="2023-09-09T19:21:28 IST" name="TearDown" finished-at="2023-09-09T19:21:28 IST" duration-ms="145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:WelcomePageTest@31d7b7bf]" started-at="2023-09-09T19:21:28 IST" name="SetUp" finished-at="2023-09-09T19:21:30 IST" duration-ms="1476" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="FunctionalityOfTheWelcomePage()[pri:2, instance:WelcomePageTest@31d7b7bf]" started-at="2023-09-09T19:21:30 IST" name="FunctionalityOfTheWelcomePage" finished-at="2023-09-09T19:21:30 IST" duration-ms="104" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FunctionalityOfTheWelcomePage -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:WelcomePageTest@31d7b7bf]" started-at="2023-09-09T19:21:30 IST" name="TearDown" finished-at="2023-09-09T19:21:30 IST" duration-ms="87" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- WelcomePageTest -->
+    </test> <!-- WelcomePageTest -->
+  </suite> <!-- MeetupAppTest2 -->
+</testng-results>
